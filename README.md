@@ -1,2 +1,5 @@
-# ejemplo
-repo de prueba de gitHub
+# Ejemplo
+Repo de prueba de GitHub.
+
+## Descripcion
+Descripcion del Repo
